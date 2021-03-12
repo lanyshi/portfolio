@@ -1,7 +1,7 @@
 # My Portfolio
 A portfolio that showcases my development skills, learning, and interests.
 
-Here's my learning log where I keep track of new projects and technologies I'm interested in exploring and experimenting.
+Here's my [learning log](https://github.com/lanyshi/portfolio/blob/main/log.md) where I keep track of new projects and technologies I'm interested in exploring and experimenting.
 
 ## Skills
 Skill | Beginner | Intermediate | Proficient
