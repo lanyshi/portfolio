@@ -1,23 +1,31 @@
-# Portfolio
-An incomplete portfolio that showcases my development skills and learning.
+# My Portfolio
+A portfolio that showcases my development skills, learning, and interests.
+
+Here's my learning log where I keep track of new projects and technologies I'm interested in exploring and experimenting.
 
 ## Skills
 Skill | Beginner | Intermediate | Proficient
 ------|----------|--------------|-----------
-Python| | |:ballot_box_with_check:
-Java | | | :ballot_box_with_check:
-HTML | | | :ballot_box_with_check:
-CSS | | | :ballot_box_with_check:
-JavaScript & jQuery | | | :ballot_box_with_check:
-Django | | | :ballot_box_with_check:
-PHP | | :ballot_box_with_check: |
-Node.js | | :ballot_box_with_check: |
-MySQL | | | :ballot_box_with_check:
-MongoDB | | | :ballot_box_with_check:
+Python| | |:white_check_mark:
+Java | | | :white_check_mark:
+PHP | | :white_check_mark: |
+JavaScript & jQuery | | | :white_check_mark:
+Maven | :white_check_mark: | |
+Gradle | :white_check_mark: | |
+Spring | :white_check_mark: | |
+Django | | | :white_check_mark:
+Node.js | | :white_check_mark: |
+MySQL | | | :white_check_mark:
+MongoDB | | | :white_check_mark:
 
 ## Projects
 * [__Django__: _Online Diary_](https://github.com/lanyshi/online-diary)
 * [__Django__: _Weather App_](https://github.com/lanyshi/django-weather-app)
+
+## Interests
+* Object Oriented Programming
+* Web development: Django, JavaScript and Node.js
+* Problem solving
 
 ## My Checklist
 This is a list of objectives by [Ginny Fahs](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155) to meet while becoming a developer.
