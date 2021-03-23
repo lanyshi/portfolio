@@ -1,5 +1,5 @@
 # My Portfolio
-A portfolio that showcases my development skills, learning, and interests.
+This portfolio showcases my development skills, learning, and interests.
 
 Here's my [learning log](https://github.com/lanyshi/portfolio/blob/main/log.md) where I keep track of new projects and technologies I'm interested in exploring and experimenting.
 
@@ -9,14 +9,20 @@ Skill | Beginner | Intermediate | Proficient
 Python| | |:white_check_mark:
 Java | | | :white_check_mark:
 PHP | | :white_check_mark: |
-JavaScript & jQuery | | | :white_check_mark:
+JavaScript | | | :white_check_mark:
+jQuery | | | :white_check_mark:
 Maven | :white_check_mark: | |
-Gradle | :white_check_mark: | |
 Spring | :white_check_mark: | |
+Gradle | :white_check_mark: | |
 Django | | | :white_check_mark:
 Node.js | | :white_check_mark: |
 MySQL | | | :white_check_mark:
 MongoDB | | | :white_check_mark:
+Agile | | :white_check_mark: |
+Git | | :white_check_mark: |
+Linux Command Line | | | :white_check_mark:
+
+I am motivated to constantly improve my proficiency in different programming languages, tools and technologies, by building projects and putting my knowledge to practice.
 
 ## Projects
 * [__Node.js__: _Todo App_](https://github.com/lanyshi/nodejs-todo)
@@ -24,12 +30,12 @@ MongoDB | | | :white_check_mark:
 * [__Django__: _Weather App_](https://github.com/lanyshi/django-weather-app)
 
 ## Interests
-* Object Oriented Programming
-* Web development: Django, JavaScript and Node.js
+* Object-Oriented Programming
+* Web development: _Django, JavaScript and Node.js_
 * Problem solving
 
 ## My Checklist
-This is a list of objectives by [Ginny Fahs](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155) to meet while becoming a developer.
+This is a list of objectives by [Ginny Fahs](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155) I follow while becoming a software developer.
 - [x] Open the computer’s terminal
 - [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 - [x] Use some keyboard shortcuts
@@ -49,5 +55,5 @@ This is a list of objectives by [Ginny Fahs](https://blog.prototypr.io/wondering
 - [x] Deploy a project
 - [ ] Ship your project to a store (App Store, Play Store, Chrome Store, Alexa Skills Store, so many stores!)
 - [ ] Contribute to open source
-- [x] Get paid to code
+- [ ] Get paid to code
 - [x] When people ask what you do, respond saying you’re a developer :)
