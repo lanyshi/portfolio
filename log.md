@@ -1,27 +1,31 @@
 # My Learning Log
 A log where I keep track of new projects I built, updated and uploaded to GitHub.
 
-## Thu Mar 11, 2020
+## Thu Mar 25, 2021
+Started the Moodlog app and set up ExpressJS.
+________________
+
+## Thu Mar 11, 2021
 Finished the Todo list app by implementing task completion feature.
 ________________
 
-## Mon Mar 8, 2020
+## Mon Mar 8, 2021
 Started a Todo list app using Node.js.
 
 Implemented adding tasks to list feature.
 ________________
 
-## Fri Mar 5, 2020
+## Fri Mar 5, 2021
 Uploaded a weather app project I built with Django to GitHub.
 
 Refreshed knowledge on Django and virtual environment.
 ________________
 
-## Fri Mar 9, 2020
+## Fri Mar 9, 2021
 Created a [portfolio repo](https://github.com/lanyshi/portfolio) on GitHub, showcasing my past and current projects as well as my skills and learning process.
 ________________
 
-## Wed Mar 3, 2020
+## Wed Mar 3, 2021
 Added projects I built while learning software design patterns to GitHub.
 ________________
 

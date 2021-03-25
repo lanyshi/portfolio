@@ -25,7 +25,7 @@ Linux Command Line | | | :white_check_mark:
 I am motivated to constantly improve my proficiency in different programming languages, tools and technologies, by building projects and putting my knowledge to practice.
 
 ## Projects
-* [__Node.js__, __Express.js__, __MongoDB__: _Todo App_](https://github.com/lanyshi/nodejs-todo)
+* [__Node.js__, __Express.js__ and __MongoDB__: _Todo App_](https://github.com/lanyshi/nodejs-todo)
 * [__Java Learning__: _Design Patterns_](https://github.com/lanyshi/software-design-patterns)
 * [__Django__: _Online Diary_](https://github.com/lanyshi/online-diary)
 * [__Django__: _Weather App_](https://github.com/lanyshi/django-weather-app)
