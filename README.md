@@ -25,7 +25,7 @@ Linux Command Line | | | :white_check_mark:
 I am motivated to constantly improve my proficiency in different programming languages, tools and technologies, by building projects and putting my knowledge to practice.
 
 ## Projects
-* [__Node.js__: _Todo App_](https://github.com/lanyshi/nodejs-todo)
+* [__Node.js__, __Express.js__, __MongoDB__: _Todo App_](https://github.com/lanyshi/nodejs-todo)
 * [__Java Learning__: _Design Patterns_](https://github.com/lanyshi/software-design-patterns)
 * [__Django__: _Online Diary_](https://github.com/lanyshi/online-diary)
 * [__Django__: _Weather App_](https://github.com/lanyshi/django-weather-app)
@@ -55,6 +55,6 @@ This is a list of objectives by [Ginny Fahs](https://blog.prototypr.io/wondering
 - [ ] Participate in a hackathon
 - [x] Deploy a project
 - [ ] Ship your project to a store (App Store, Play Store, Chrome Store, Alexa Skills Store, so many stores!)
-- [ ] Contribute to open source
+- [x] Contribute to open source
 - [ ] Get paid to code
 - [x] When people ask what you do, respond saying you’re a developer :)
