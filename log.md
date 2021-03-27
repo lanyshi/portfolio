@@ -1,6 +1,12 @@
 # My Learning Log
 A log where I keep track of new projects I built, updated and uploaded to GitHub.
 
+## Sat Mar 27, 2021
+Started a new Java repo that manages MySQL and MongoDB databases.
+
+Implemented both programs.
+________________
+
 ## Thu Mar 25, 2021
 Started the Moodlog app and set up ExpressJS.
 ________________
