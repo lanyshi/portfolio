@@ -50,7 +50,7 @@ ________________
 Added projects I built while learning software design patterns to GitHub.
 ________________
 
-## Course Experience
+# Course Experience
 
 Below is a collection of all the development courses I took while learning to become a software developer since 2017.
 
