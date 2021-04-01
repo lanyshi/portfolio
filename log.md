@@ -1,6 +1,17 @@
 # My Learning Log
 A log where I keep track of new projects I built, updated and uploaded to GitHub.
 
+## Wed Mar 31, 2021
+Implemented using Python to manage MongoDB database
+
+## Tue Mar 30, 2021
+Implemented using Python to manage MySQL database and basic data handling features.
+________________
+
+## Sun Mar 28, 2021
+Started a new Python repo that manages MySQL and MongoDB databases.
+________________
+
 ## Sat Mar 27, 2021
 Started a new Java repo that manages MySQL and MongoDB databases.
 
