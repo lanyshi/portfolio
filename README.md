@@ -25,6 +25,7 @@ Linux Command Line | | | :white_check_mark:
 I am motivated to constantly improve my proficiency in different programming languages, tools and technologies, by building projects and putting my knowledge to practice.
 
 ## Projects
+* [__Python__: _Managing MySQL & MongoDB Databases_](https://github.com/lanyshi/python_database)
 * [__Java__: _Managing MySQL & MongoDB Databases_](https://github.com/lanyshi/java_database)
 * [__Node.js__, __Express.js__ and __MongoDB__: _Todo App_](https://github.com/lanyshi/nodejs-todo)
 * [__Java Learning__: _Design Patterns_](https://github.com/lanyshi/software-design-patterns)
@@ -35,27 +36,3 @@ I am motivated to constantly improve my proficiency in different programming lan
 * Object-Oriented Programming
 * Web development: _Django, JavaScript and Node.js_
 * Problem solving
-
-## My Checklist
-This is a list of objectives by [Ginny Fahs](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155) I follow while becoming a software developer.
-- [x] Open the computer’s terminal
-- [x] Use a text editor (bonus points if you have a specific reason for choosing it)
-- [x] Use some keyboard shortcuts
-- [x] Write tests for your code
-- [x] Help another engineer with something they’re having trouble with
-- [x] Attend an event about engineering
-- [x] Follow developers you admire on social media
-- [x] Read a book about coding
-- [x] Open your browser console
-- [x] Get data from an API
-- [x] Hide API keys from the public
-- [x] Post a question on Stack Overflow
-- [x] Push code to GitHub or GitLab or BitBucket
-- [ ] Speak about something engineering-related at an event
-- [x] Complete a technical interview
-- [ ] Participate in a hackathon
-- [x] Deploy a project
-- [ ] Ship your project to a store (App Store, Play Store, Chrome Store, Alexa Skills Store, so many stores!)
-- [x] Contribute to open source
-- [ ] Get paid to code
-- [x] When people ask what you do, respond saying you’re a developer :)
