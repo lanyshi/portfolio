@@ -11,16 +11,19 @@ Java | | | :white_check_mark:
 PHP | | :white_check_mark: |
 JavaScript | | | :white_check_mark:
 jQuery | | | :white_check_mark:
-Maven | :white_check_mark: | |
-Spring | :white_check_mark: | |
-Gradle | :white_check_mark: | |
+Bootstrap | | :white_check_mark: |
 Django | | | :white_check_mark:
 Node.js | | :white_check_mark: |
 MySQL | | | :white_check_mark:
 MongoDB | | | :white_check_mark:
-Agile | | :white_check_mark: |
+Maven | :white_check_mark: | |
+Spring | :white_check_mark: | |
+Gradle | :white_check_mark: | |
+Ant | :white_check_mark: | |
+Agile methodologies | | :white_check_mark: |
 Git | | :white_check_mark: |
-Linux Command Line | | | :white_check_mark:
+Linux Commands | | | :white_check_mark:
+Data Structure & Algorithms | :white_check_mark: | |
 
 I am motivated to constantly improve my proficiency in different programming languages, tools and technologies, by building projects and putting my knowledge to practice.
 
@@ -33,6 +36,14 @@ I am motivated to constantly improve my proficiency in different programming lan
 * [__Django__: _Weather App_](https://github.com/lanyshi/django-weather-app)
 
 ## Interests
-* Object-Oriented Programming
-* Web development: _Django, JavaScript and Node.js_
-* Problem solving
+* Exploring and experimenting with object-oriented design patterns
+    * Code refactoring
+* Building web applications with MVC frameworks
+    * Django
+    * Spring Boot
+    * MEAN Stack
+* Working with different agile methods
+    * Scrum
+    * Kanban
+    * TDD
+    * FDD
