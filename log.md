@@ -2,9 +2,11 @@
 A log where I keep track of new projects I built, updated and uploaded to GitHub.
 
 Skip to [Course Experience](#course-experience) to see all the development courses I took in the past.
+________________
 
 ### Wed Mar 31, 2021
 Implemented using Python to manage MongoDB database
+________________
 
 ### Tue Mar 30, 2021
 Implemented using Python to manage MySQL database and basic data handling features.
