@@ -1,52 +1,56 @@
 # My Learning Log
 A log where I keep track of new projects I built, updated and uploaded to GitHub.
 
-## Wed Mar 31, 2021
+Skip to [Course Experience](#Course Experience) to see all the development courses I took in the past.
+
+### Wed Mar 31, 2021
 Implemented using Python to manage MongoDB database
 
-## Tue Mar 30, 2021
+### Tue Mar 30, 2021
 Implemented using Python to manage MySQL database and basic data handling features.
 ________________
 
-## Sun Mar 28, 2021
+### Sun Mar 28, 2021
 Started a new Python repo that manages MySQL and MongoDB databases.
 ________________
 
-## Sat Mar 27, 2021
+### Sat Mar 27, 2021
 Started a new Java repo that manages MySQL and MongoDB databases.
 
 Implemented both programs.
 ________________
 
-## Thu Mar 25, 2021
+### Thu Mar 25, 2021
 Started the Moodlog app and set up ExpressJS.
 ________________
 
-## Thu Mar 11, 2021
+### Thu Mar 11, 2021
 Finished the Todo list app by implementing task completion feature.
 ________________
 
-## Mon Mar 8, 2021
+### Mon Mar 8, 2021
 Started a Todo list app using Node.js.
 
 Implemented adding tasks to list feature.
 ________________
 
-## Fri Mar 5, 2021
+### Fri Mar 5, 2021
 Uploaded a weather app project I built with Django to GitHub.
 
 Refreshed knowledge on Django and virtual environment.
 ________________
 
-## Fri Mar 9, 2021
+### Fri Mar 9, 2021
 Created a [portfolio repo](https://github.com/lanyshi/portfolio) on GitHub, showcasing my past and current projects as well as my skills and learning process.
 ________________
 
-## Wed Mar 3, 2021
+### Wed Mar 3, 2021
 Added projects I built while learning software design patterns to GitHub.
 ________________
 
-Below is a collection of all the programming courses I took while learning to become a software developer since 2017.
+## Course Experience
+
+Below is a collection of all the development courses I took while learning to become a software developer since 2017.
 
 Year|Course|Technologies & Tools
 ----|-------|-----------------------
@@ -55,7 +59,7 @@ Year|Course|Technologies & Tools
 2020|Data Structures and Algorithms|_Java_
 2020|Agile Software Development|_Scrum_, _Trello_
 2020|Data Science with Python|_Python_
-2019|Software Quality, Testing, and Security Management|
+2019|Software Quality, Testing, and Security Management| QA, Testing tools
 2019|Information Systems Analysis and Design|
 2019|Information Structures with Python|_Python_
 2018-2019|Design and Development of An Information System|_PHP_, _HTML/CSS_, _MySQL_, _Scrum_
