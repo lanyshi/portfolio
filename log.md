@@ -1,7 +1,7 @@
 # My Learning Log
 A log where I keep track of new projects I built, updated and uploaded to GitHub.
 
-Skip to [Course Experience](#Course Experience) to see all the development courses I took in the past.
+Skip to [Course Experience](#course-experience) to see all the development courses I took in the past.
 
 ### Wed Mar 31, 2021
 Implemented using Python to manage MongoDB database
