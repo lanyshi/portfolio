@@ -16,12 +16,13 @@ Django | | | :white_check_mark:
 Node.js | | :white_check_mark: |
 MySQL | | | :white_check_mark:
 MongoDB | | | :white_check_mark:
+JUnit | | :white_check_mark: |
 Maven | :white_check_mark: | |
 Spring | :white_check_mark: | |
 Gradle | :white_check_mark: | |
 Ant | :white_check_mark: | |
-Agile methodologies | | :white_check_mark: |
 Git | | :white_check_mark: |
+Agile methodologies | | :white_check_mark: |
 Linux Commands | | | :white_check_mark:
 Data Structure & Algorithms | :white_check_mark: | |
 
