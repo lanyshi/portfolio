@@ -31,10 +31,11 @@ I am motivated to constantly improve my proficiency in different programming lan
 ## Projects
 * [__Python__: _Managing MySQL & MongoDB Databases_](https://github.com/lanyshi/python_database)
 * [__Java__: _Managing MySQL & MongoDB Databases_](https://github.com/lanyshi/java_database)
-* [__Node.js__, __Express.js__ and __MongoDB__: _Todo App_](https://github.com/lanyshi/nodejs-todo)
+* [__Node.js__, __Express.js__, __MongoDB__: _Todo App_](https://github.com/lanyshi/nodejs-todo)
 * [__Java Learning__: _Design Patterns_](https://github.com/lanyshi/software-design-patterns)
 * [__Django__: _Online Diary_](https://github.com/lanyshi/online-diary)
 * [__Django__: _Weather App_](https://github.com/lanyshi/django-weather-app)
+* [__PHP__, __JavaScript__, __REST APIs__, __MySQL__: _Capstone Project - BloomingHeart_](https://github.com/lanyshi/capstone_bloomingheart)
 
 ## Interests
 * Exploring and experimenting with object-oriented design patterns
