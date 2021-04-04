@@ -4,6 +4,15 @@ A log where I keep track of new projects I built, updated and uploaded to GitHub
 Skip to [Course Experience](#course-experience) to see all the development courses I took in the past.
 ________________
 
+### Sun Apr 4, 2021
+Continued with the User Authentication System and implemented the Login and Log Out feature.
+
+### Sat Apr 3, 2021
+Created a User Authentication System with PHP and MySQL.
+
+Implemented Registration feature.
+________________
+
 ### Wed Mar 31, 2021
 Implemented using Python to manage MongoDB database
 ________________
