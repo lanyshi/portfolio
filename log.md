@@ -1,11 +1,12 @@
 # My Learning Log
-A log where I keep track of new projects I built, updated and uploaded to GitHub.
+A log where I keep track of the projects I built, updated and uploaded to GitHub.
 
 Skip to [Course Experience](#course-experience) to see all the development courses I took in the past.
 ________________
 
 ### Sun Apr 4, 2021
 Continued with the User Authentication System and implemented the Login and Log Out feature.
+________________
 
 ### Sat Apr 3, 2021
 Created a User Authentication System with PHP and MySQL.
@@ -66,16 +67,16 @@ Below is a collection of all the development courses I took while learning to be
 Year|Course|Technologies & Tools
 ----|-------|-----------------------
 2020|Advanced Programming Techniques|_Java_, _MySQL_, _MongoDB_, _Maven_, _Gradle_, _ANT_
-2020|Software Design and Patterns|_Java_, _Maven_
+2020|Software Design and Patterns|_Java_, JUnit, _Maven_
 2020|Data Structures and Algorithms|_Java_
 2020|Agile Software Development|_Scrum_, _Trello_
 2020|Data Science with Python|_Python_
 2019|Software Quality, Testing, and Security Management| QA, Testing tools
-2019|Information Systems Analysis and Design|
+2019|Information Systems Analysis and Design| _Business Analysis_, _SDLC_
 2019|Information Structures with Python|_Python_
-2018-2019|Design and Development of An Information System|_PHP_, _HTML/CSS_, _MySQL_, _Scrum_
+2018-2019|Design and Development of An Information System|_PHP_, _HTML/CSS_, _JavaScript_, _jQuery_, _Bootstrap_, _MySQL_, _Scrum_
 2018|Information Infrastructure II|_Python_
 2018|Information Infrastructure I|_Python_
-2018|Mastering The World Wide Web|_Linux_, _PHP_, _Django_, _MEAN_
+2018|Mastering The World Wide Web|_Linux/Unix_, _Apache_, _PHP_, _MySQL_, _Django_, _MEAN Stack_
 2017|Tools for Computing: JavaScript|_JavaScript_
 
