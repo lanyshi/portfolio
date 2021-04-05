@@ -72,7 +72,7 @@ Year|Course|Technologies & Tools
 2020|Agile Software Development|_Scrum_, _Trello_
 2020|Data Science with Python|_Python_
 2019|Software Quality, Testing, and Security Management| QA, Testing tools
-2019|Information Systems Analysis and Design| _Business Analysis_, _SDLC_
+2019|Information Systems Analysis and Design| Business Analysis, SDLC
 2019|Information Structures with Python|_Python_
 2018-2019|Design and Development of An Information System|_PHP_, _HTML/CSS_, _JavaScript_, _jQuery_, _Bootstrap_, _MySQL_, _Scrum_
 2018|Information Infrastructure II|_Python_
