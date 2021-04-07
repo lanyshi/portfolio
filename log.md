@@ -4,6 +4,10 @@ A log where I keep track of the projects I built, updated and uploaded to GitHub
 Skip to [Course Experience](#course-experience) to see all the development courses I took in the past.
 ________________
 
+### Tue Apr 6, 2021
+Started a real-time chat application with vue.js and firebase. Got familiar with the concept and utility of both tools.
+________________
+
 ### Sun Apr 4, 2021
 Continued with the User Authentication System and implemented the Login and Log Out feature.
 ________________
