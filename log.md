@@ -4,6 +4,14 @@ A log where I keep track of the projects I built, updated and uploaded to GitHub
 Skip to [Course Experience](#course-experience) to see all the development courses I took in the past.
 ________________
 
+### Thu Apr 8, 2021
+Completed the real-time chat app by deploying the cloud function.
+________________
+
+### Wed Apr 7, 2021
+Continued with the real-time chat application and implemented the Chat Logic.
+________________
+
 ### Tue Apr 6, 2021
 Started a real-time chat application with vue.js and firebase. Got familiar with the concept and utility of both tools.
 ________________
