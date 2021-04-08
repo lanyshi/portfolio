@@ -14,8 +14,10 @@ jQuery | | | :white_check_mark:
 Bootstrap | | :white_check_mark: |
 Django | | | :white_check_mark:
 Node.js | | :white_check_mark: |
+Vue.js | :white_check_mark: | |
 MySQL | | | :white_check_mark:
 MongoDB | | | :white_check_mark:
+Firebase | :white_check_mark: | |
 JUnit | | :white_check_mark: |
 Maven | :white_check_mark: | |
 Spring | :white_check_mark: | |
@@ -25,11 +27,12 @@ Apache | | :white_check_mark: |
 Git | | :white_check_mark: |
 Agile methodologies | | :white_check_mark: |
 Linux Commands | | | :white_check_mark:
-Data Structure & Algorithms | :white_check_mark: | |
+Data Structure & Algorithms | | :white_check_mark: |
 
 I am motivated to constantly improve my proficiency in different programming languages, tools and technologies, by building projects and putting my knowledge to practice.
 
 ## Projects
+* [__Vue.js & Firebase__: _Real-Time Chat Application_](https://github.com/lanyshi/realtime_chat)
 * [__PHP & MySQL__: _User Authenciation System_](https://github.com/lanyshi/php_user_authentication)
 * [__Python__: _Managing MySQL & MongoDB Databases_](https://github.com/lanyshi/python_database)
 * [__Java__: _Managing MySQL & MongoDB Databases_](https://github.com/lanyshi/java_database)
