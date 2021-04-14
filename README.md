@@ -49,9 +49,7 @@ I am motivated to constantly improve my proficiency in different programming lan
 * Building web applications with MVC frameworks
     * Django
     * Spring Boot
-    * MEAN Stack
 * Working with different agile methods
     * Scrum
     * Kanban
-    * TDD
-    * FDD
+    * Feature Driven Development (FDD)
