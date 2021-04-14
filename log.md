@@ -4,6 +4,14 @@ A log where I keep track of the projects I built, updated and uploaded to GitHub
 Skip to [Course Experience](#course-experience) to see all the development courses I took in the past.
 ________________
 
+### Wed Apr 14, 2021
+Finished the reddit bot by expanding its feature to make it responsive to idioms in the comments.
+________________
+
+### Tue Apr 13, 2021
+Started a Reddit bot project with Python following a youtube tutorial.
+________________
+
 ### Thu Apr 8, 2021
 Completed the real-time chat app by deploying the cloud function.
 ________________
