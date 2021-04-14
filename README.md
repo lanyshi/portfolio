@@ -32,6 +32,7 @@ Data Structure & Algorithms | | :white_check_mark: |
 I am motivated to constantly improve my proficiency in different programming languages, tools and technologies, by building projects and putting my knowledge to practice.
 
 ## Projects
+* [__Python__: _Reddit Idiom Bot_](https://github.com/lanyshi/python-reddit-bot)
 * [__Vue.js & Firebase__: _Real-Time Chat Application_](https://github.com/lanyshi/realtime_chat)
 * [__PHP & MySQL__: _User Authenciation System_](https://github.com/lanyshi/php_user_authentication)
 * [__Python__: _Managing MySQL & MongoDB Databases_](https://github.com/lanyshi/python_database)
