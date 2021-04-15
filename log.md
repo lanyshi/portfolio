@@ -3,9 +3,15 @@ A log where I keep track of the projects I built, updated and uploaded to GitHub
 
 Skip to [Course Experience](#course-experience) to see all the development courses I took in the past.
 ________________
+### Thu Apr 15, 2021
+Re-created the entire app using the webpack build and successfully deployed it on github.io.
+________________
 
 ### Wed Apr 14, 2021
 Finished the reddit bot by expanding its feature to make it responsive to idioms in the comments.
+
+Started working on online hosting for the Real-Time Chat project and decided on deploying it on GitHub Pages
+(aka. github.io).
 ________________
 
 ### Tue Apr 13, 2021
