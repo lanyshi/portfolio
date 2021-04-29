@@ -3,6 +3,13 @@ A log where I keep track of the projects I built, updated and uploaded to GitHub
 
 Skip to [Course Experience](#course-experience) to see all the development courses I took in the past.
 ________________
+
+### Thu Apr 29, 2021
+Improved the Real-Time Chat Application by implementing cookies to prevent logging user out on refreshing webpage.
+
+Implemented a user authentication system to prevent users entering chat with existing names.
+________________
+
 ### Thu Apr 15, 2021
 Re-created the entire app using the webpack build and successfully deployed it on github.io.
 ________________
