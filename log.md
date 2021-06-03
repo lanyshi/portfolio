@@ -4,9 +4,15 @@ A log where I keep track of the projects I built, updated and uploaded to GitHub
 Skip to [Course Experience](#course-experience) to see all the development courses I took in the past.
 ________________
 
+### Wed Jun 3, 2021
+Finished implementing the Chat Rooms feature.
+________________
+### Wed Jun 2, 2021
+Received suggestion to add Chat Rooms feature so that user can enter different rooms upon login.
+________________
 ### Mon May 31, 2021
 Further improved the Real-Time Chat App by adding a cookie consent popup with a Vue.js plugin [Cookie Law](https://github.com/apertureless/vue-cookie-law).
-
+________________
 ### Thu Apr 29, 2021
 Improved the Real-Time Chat Application by implementing cookies to prevent logging user out on refreshing webpage.
 
